@@ -1,4 +1,5 @@
 print("Algorithms file loaded")
+# Siddharth Paratkar
 
 def quicksort(arr):
     if len(arr) < 2:
